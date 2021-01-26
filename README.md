@@ -1,4 +1,4 @@
-# sudoku_solver
+## sudoku solver
 
 run this command for compile by g++:
 
