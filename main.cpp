@@ -1,5 +1,5 @@
 #include "sudoku_header.h"
-#define comment 1
+#define comment 0
 
 int main()
 {
